@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o André!
+# Olá, eu sou o André!
 Arquiteto do desconhecido digital. Criando sites, aplicativos e produtos de alto impacto a partir de Minas Gerais, Brasil.
 
 <div data-importer="techs" align="left">
