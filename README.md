@@ -8,7 +8,7 @@ Arquiteto do desconhecido digital. Criando sites, aplicativos e produtos de alto
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?viewbox=auto" height="40" alt="Tailwind CSS" align="center" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?viewbox=auto" height="40" alt="Tailwind CSS"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  height="40"  alt="MongoDB logo" />
   <img width="12" />
