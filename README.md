@@ -14,7 +14,7 @@ Arquiteto do desconhecido digital. Criando sites, aplicativos e produtos de alto
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699?viewbox=auto" height="40" width="40" alt="Sass" align="center" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699?viewbox=auto" height="40" alt="Sass" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
